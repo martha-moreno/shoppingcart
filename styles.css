@@ -1,0 +1,35 @@
+label{
+    font-family:'Courier New', Courier, monospace;
+    color:indigo;
+}
+
+li{
+    margin:2em;
+}
+ input {
+    background:#EF979C;
+    color: white;
+}
+input:hover{
+    background: purple;
+}
+
+h1{
+    text-align:center;
+    color: #EF979C; 
+    text-shadow: 2px 2px #fff;
+}
+.subtitle {
+color:#83407A;
+
+}
+body{
+    background:white;
+}
+.container{
+    background: #f2e9da;
+}
+.url-input{
+    background:white;
+    color: black;
+}
