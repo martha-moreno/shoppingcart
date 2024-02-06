@@ -34,7 +34,7 @@ Go to your browser and go to localhost:8080, select index.html
 
 ## Links
 >- [My Portfolio](https://martha-moreno.github.io/)
->- [ATM Repo](https://github.com/martha-moreno/shoppingcart)
+>- [Shopping Cart Repo](https://github.com/martha-moreno/shoppingcart)
 
 ## License
 >- MIT
